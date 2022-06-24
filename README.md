@@ -7,10 +7,9 @@ It retrieves data from Weather API(Openweathermap) by using Retrofit2.
    2. search by current location
 
 #### Uses-permission:
-1. android.permission.READ_PHONE_STATE
-2. android.permission.INTERNET
-3. android.permission.READ_EXTERNAL_STORAGE
-4. android.permission.WRITE_EXTERNAL_STORAGE
+1. android.permission.ACCESS_FINE_LOCATION
+2. android.permission.ACCESS_COARSE_LOCATION
+3. android.permission.INTERNET
 
 #### API:
 Weather API
